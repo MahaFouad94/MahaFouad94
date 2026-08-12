@@ -39,6 +39,17 @@ Focus areas:
 - Machine learning foundations
 - Notebook-based analysis
 
+### [Digital Marketing Campaign Analysis](https://github.com/MahaFouad94/Digital-Marketing)
+
+An NDA-safe campaign analytics project using synthetic marketing data to compare channels, cost per lead, conversion performance, and budget efficiency.
+
+Focus areas:
+
+- Synthetic campaign performance data
+- Cost per lead and conversion-rate analysis
+- Channel comparison
+- Executive-style campaign reporting
+
 ## What I Am Building Toward
 
 - Stronger BI engineering practices for Power BI and semantic models
