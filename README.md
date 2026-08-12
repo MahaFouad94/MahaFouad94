@@ -16,7 +16,7 @@ My work combines data cleaning, SQL, Python, Power BI, data modeling, dashboard 
 
 ## Featured Work
 
-### BI Report Automation Portfolio
+### [BI Report Automation Portfolio](https://github.com/MahaFouad94/MahaFouad94/tree/main/projects/bi-report-automation-portfolio)
 
 An NDA-safe public project showing how synthetic KPI data can be transformed into a clean executive report using Python.
 
@@ -28,7 +28,7 @@ Focus areas:
 - Reusable reporting structure
 - Safe public documentation patterns
 
-### Data Science Learning Portfolio
+### [Data Science Learning Portfolio](https://github.com/MahaFouad94/ALX-Data-Science-Program)
 
 Course and practice work covering Python, SQL, regression, classification, NLP, and unsupervised learning.
 
@@ -49,3 +49,9 @@ Focus areas:
 ## Professional Focus
 
 I am interested in roles and projects at the intersection of data science, BI development, automation, and business decision support.
+
+## Public Repositories
+
+- [BI Report Automation Portfolio](https://github.com/MahaFouad94/MahaFouad94/tree/main/projects/bi-report-automation-portfolio)
+- [ALX Data Science Program Portfolio](https://github.com/MahaFouad94/ALX-Data-Science-Program)
+- [Digital Marketing Portfolio](https://github.com/MahaFouad94/Digital-Marketing)
