@@ -16,6 +16,18 @@ My work combines data cleaning, SQL, Python, Power BI, data modeling, dashboard 
 
 ## Featured Work
 
+### [Power BI Portfolio](https://github.com/MahaFouad94/powerbi-portfolio)
+
+Five end-to-end Power BI projects saved as PBIP source (TMDL semantic models and PBIR reports), built on synthetic data.
+
+Focus areas:
+
+- Supply chain, transport planning, field operations and marketing analytics
+- Multi-fact star schemas with 150 to 200 DAX measures per model
+- Geospatial analysis with GeoJSON and WKT geometry
+- SQL Server schemas, validation queries and architecture documentation
+- A report generated entirely from Python
+
 ### [BI Report Automation Portfolio](https://github.com/MahaFouad94/MahaFouad94/tree/main/projects/bi-report-automation-portfolio)
 
 An NDA-safe public project showing how synthetic KPI data can be transformed into a clean executive report using Python.
@@ -63,6 +75,7 @@ I am interested in roles and projects at the intersection of data science, BI de
 
 ## Public Repositories
 
+- [Power BI Portfolio](https://github.com/MahaFouad94/powerbi-portfolio)
 - [BI Report Automation Portfolio](https://github.com/MahaFouad94/MahaFouad94/tree/main/projects/bi-report-automation-portfolio)
 - [ALX Data Science Program Portfolio](https://github.com/MahaFouad94/ALX-Data-Science-Program)
 - [Digital Marketing Portfolio](https://github.com/MahaFouad94/Digital-Marketing)
